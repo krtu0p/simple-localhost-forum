@@ -1,0 +1,6 @@
+service:
+  port: ":9876"
+  secretJWT: "forumtest"
+
+database:
+  dataSourceName: "root:forum123@tcp(localhost:3307)/forum?parseTime=true"
