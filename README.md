@@ -28,4 +28,5 @@ go build
 
 ### Using Docker:
 ```docker run --image simple-localhost-forum
+docker run --image simple-localhost-forum
 ```
